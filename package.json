@@ -1,0 +1,17 @@
+{
+  "name": "project-tree",
+  "version": "1.0.0",
+  "bin": {
+    "project-tree": "index.js"
+  },
+  "description": "A tool I use a lot to print the structure of a project in a tree format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Abdo9616",
+  "license": "MIT",
+  "type": "commonjs"
+}
