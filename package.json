@@ -23,9 +23,6 @@
     "type": "git",
     "url": "git+https://github.com/Abdo9616/project-tree.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
   "bugs": {
     "url": "https://github.com/Abdo9616/project-tree/issues"
   },
